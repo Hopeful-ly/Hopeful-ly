@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VelterZI
 - 👀 I’m interested in AI & WebDev
 - 🌱 I’m currently learning C#
+- 🏗️ Busy working DogePy and discordfa.com
 - 📫 Reach me in Discord - VelterZi#3770
 
 <!---
