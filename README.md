@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VelterZI
 - 👀 I’m interested in AI & WebDev
-- 🌱 I’m currently learning C#
-- 🏗️ Busy working on DogePy and discordfa.com
+- 🌱 I’m currently learning ✨AngularJs✨
+- 🏗️ Busy working on discordfa.com
 - 📫 Reach me in Discord - VelterZi#3770
 
 <!---
