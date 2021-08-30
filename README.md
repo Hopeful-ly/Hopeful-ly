@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hopeful 
-- ❓ I'm an <a href="https://www.16personalities.com/intp-personality">INTP</a>
 - 👀 I’m interested in AI & WebDev
-- 🌱 I’m currently learning ✨AngularJs✨
+- 🌱 I’m currently learning ✨Deep Learning✨
 - 🏗️ Busy working on discordfa.com
 - 📫 Reach me in Discord Hopeful#3770
 
