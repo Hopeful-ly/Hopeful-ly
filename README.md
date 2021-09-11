@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Hopeful 
-- 👀 I’m interested in AI & WebDev
-- 🌱 I’m currently learning ✨Deep Learning✨
-- 🏗️ Busy working on discordfa.com
-- 📫 Reach me in Discord Hopeful#3770
-
-<!---
-Hopeful-ly/Hopeful-ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/Hopeful-ly?template=classic&base.metadata=0&languages=1&introduction=1&people=1&achievements=1&screenshot=1&projects=1&lines=1&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&screenshot.title=Discordfa&screenshot.url=https%3A%2F%2Fdiscordfa.com&screenshot.selector=body&screenshot.background=true&config.timezone=Asia%2FTbilisi)
