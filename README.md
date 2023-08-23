@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I'm currently interested in NNs and Cryptography.<br>🐍 My favourite programming languages are Python and Typescript.<br>🧠 I'm still in 11th grade (IBDP1), so I'll be graduating next year.<br>🗨️ Ask me about anything Web-Dev related.<br>🔍 If you're looking for an intern or a collaborator, hit me up.
+✨ I'm currently interested in NNs and Cryptography.<br>🐍 My favourite programming languages are Python and Typescript.<br>🧠 I'm currently in 12th grade (IB DP2), so I'll be graduating in the following year.<br>🗨️ Ask me about anything Web-Dev related.<br>🔍 If you're looking for an intern or a collaborator, hit me up.
 
 
 ## 🌐 Socials:
