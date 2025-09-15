@@ -1,6 +1,9 @@
 Flour brands of choice: Python, Typescript.
+
 Flour packs in the drawer: Java, Go 
+
 Waiting for delivery on: Rust, C#
+
 Wanna-buy list: Zig, C, Swift
 
 
