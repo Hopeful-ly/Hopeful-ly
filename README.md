@@ -1,8 +1,8 @@
-Flour brands of choice: Python, Typescript.
+Utensils of choice: Python, Typescript.
 
-Flour packs in the drawer: Java, Go 
+Mostly unused ones, in the drawer: Java, Go 
 
-Waiting for delivery on: Rust, C#
+Waiting for delivery on: Rust, C#, Elixir
 
 Wanna-buy list: Zig, C, Swift
 
